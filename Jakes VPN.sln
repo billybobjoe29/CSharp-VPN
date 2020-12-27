@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jakes VPN", "Jakes VPN.csproj", "{019831CD-CEA8-4779-99A6-350D9B7671A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{019831CD-CEA8-4779-99A6-350D9B7671A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019831CD-CEA8-4779-99A6-350D9B7671A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019831CD-CEA8-4779-99A6-350D9B7671A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019831CD-CEA8-4779-99A6-350D9B7671A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A13A848-59C2-4104-9E03-9295DEE73CD7}
+	EndGlobalSection
+EndGlobal
